@@ -16,7 +16,7 @@ It also explores potential future applications in AI-driven clinical decision su
 ## Citation
 If you use or adapt this work, please cite:
 
-## Patient Reflection and Treatment Planning Sheets (English)
+## Patient Reflection and Treatment Planning Sheets (Jp/English)
 
 This PDF contains two simple tools:
 
