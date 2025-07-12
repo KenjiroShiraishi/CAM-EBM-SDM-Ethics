@@ -15,3 +15,20 @@ It also explores potential future applications in AI-driven clinical decision su
 
 ## Citation
 If you use or adapt this work, please cite:
+
+## Patient Reflection and Treatment Planning Sheets (English)
+
+This PDF contains two simple tools:
+
+1. **Sheet for Setting Treatment Direction**  
+   Helps patients clarify how they want to make decisions (individually, with family, or led by providers) and identify any concerns or hopes related to acupuncture and CAM.
+
+2. **Sheet for Reviewing Current Condition**  
+   Encourages patients to reflect on any positive or negative changes, questions about treatment, and overall goals for maintaining or improving their health.
+
+These sheets support patient understanding, transparency, and communication in modern medical practice, especially when integrating CAM.
+
+---
+
+**License:**  
+Shared under CC BY 4.0 for academic, clinical, and AI-related use.
